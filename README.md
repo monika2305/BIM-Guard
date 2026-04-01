@@ -162,12 +162,6 @@ qrcode>=7.4.2
 
 **Team ArchiTechs** — KPR Institute of Engineering and Technology
 
-| Name | Role |
-|------|------|
-| Mithuna Kamalanathan | Team Leader |
-| Monika M | Member |
-
-**Mentor:** Mr Mohan M, Assistant Professor, BE CSE
 
 ---
 
